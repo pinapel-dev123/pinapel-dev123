@@ -19,4 +19,6 @@ https://scratchitukeren.itch.io
 - **Browser:** Chromium (Privacy focused)
 - **Environment:** Rooted Systems & BusyBox Power
 - **Vibe:** Sideloading only, no bloatware.
+  <img width="300" height="168" alt="17782276080053953320754721880458" src="https://github.com/user-attachments/assets/20e4ac8f-8e57-4d0f-b49e-49f5a8795533" />
+
 
