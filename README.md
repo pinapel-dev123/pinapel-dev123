@@ -6,7 +6,7 @@
 
 I've been building and coding since I was 10. I'm a fan of open-source, terminal-based workflows, and diving into the "under-the-hood" of any system I use.
 
-**Links:**
+### Links:
 https://scratch.mit.edu/users/scratchitukeren  
 https://scratchitukeren.itch.io
 
