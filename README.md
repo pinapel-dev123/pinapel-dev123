@@ -15,9 +15,16 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - cocrea: https://www.cocrea.world/@scratchitukerennn
 - internet archive: https://archive.org/details/@saucebbq
 - itch: https://scratchitukeren.itch.io
-btw i play crossy road and minecraft  
-my friend https://scratch.mit.edu/users/scratchitukeren3  
-yes my friend is steal my scratch name lol 
+
+### 😃 My Friends
+- **Scratchitukeren3:**
+- https://scratch.mit.edu/users/scratchitukeren3
+- https://github.com/N20Codes
+- **BlueBoi133:**
+- https://scratch.mit.edu/users/blueboi133
+- **TheDzaki322:**
+- https://scratch.mit.edu/users/thedzaki322  
+yes my friend scratchitukeren3 is steal my scratch name lol 
 
 <img width="206" height="244" alt="17782277990888026455196263120603" src="https://github.com/user-attachments/assets/0133995d-29c8-4304-bc1c-50ff869c36c8" />
 
