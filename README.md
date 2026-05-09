@@ -9,11 +9,15 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 <img width="330" height="153" alt="17782277269886810427317467650873" src="https://github.com/user-attachments/assets/e1b231d0-7174-49af-bc27-7a01c3c0555b" />
 
 ### ↗️ Links:
-- my scratch main account: https://scratch.mit.edu/users/scratchitukeren/
-- my scratch all account:  https://scratch.mit.edu/studios/50843612/curators
-- my cocrea acc:  https://www.cocrea.world/@scratchitukerennn
-- internet archive:  https://archive.org/details/@saucebbq
-btw i play crossy road and minecraft
+- scratch main acc: https://scratch.mit.edu/users/scratchitukeren
+- scratch second acc: https://scratch.mit.edu/users/scratchitukeren2
+- scratch all account: https://scratch.mit.edu/studios/50843612/curators
+- cocrea: https://www.cocrea.world/@scratchitukerennn
+- internet archive: https://archive.org/details/@saucebbq
+- itch: https://scratchitukeren.itch.io
+btw i play crossy road and minecraft  
+my friend https://scratch.mit.edu/users/scratchitukeren3  
+yes my friend is steal my scratch name lol 
 
 <img width="206" height="244" alt="17782277990888026455196263120603" src="https://github.com/user-attachments/assets/0133995d-29c8-4304-bc1c-50ff869c36c8" />
 
