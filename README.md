@@ -16,6 +16,11 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - Internet Archive Account: https://archive.org/details/@saucebbq
 - Itch.io Account: https://scratchitukeren.itch.io
 
+![My GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+![GitHub Streak](https://herokuapp.com)
+
+
 <img width="387" height="130" alt="17782878596183052075086538190178" src="https://github.com/user-attachments/assets/87463d26-b8a6-4a8f-b2f0-b34feae5e1cb" />
 
 
@@ -37,7 +42,6 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - **Specialty:** System Modding & Technical Maintenance 🔧
 
 <img width="293" height="172" alt="17782876406901991972668016201404" src="https://github.com/user-attachments/assets/9a6da4f8-fdcc-4290-9a7b-7f85c507a5e4" />
-
 
 ### 🧪 My Coding Space
 - **Browser:** Chromium (Privacy focused)
