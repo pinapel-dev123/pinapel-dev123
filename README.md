@@ -16,6 +16,9 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - internet archive: https://archive.org/details/@saucebbq
 - itch: https://scratchitukeren.itch.io
 
+<img width="387" height="130" alt="17782878596183052075086538190178" src="https://github.com/user-attachments/assets/87463d26-b8a6-4a8f-b2f0-b34feae5e1cb" />
+
+
 ### 😃 My Friends
 - **Scratchitukeren3:**
 - https://scratch.mit.edu/users/scratchitukeren3
