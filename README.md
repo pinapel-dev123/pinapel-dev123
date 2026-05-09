@@ -33,6 +33,9 @@ yes my friend scratchitukeren3 is steal my scratch name lol
 - **Terminal:** Linux Shell / Bash (Pro Level) 🐚
 - **Specialty:** System Modding & Technical Maintenance 🔧
 
+<img width="293" height="172" alt="17782876406901991972668016201404" src="https://github.com/user-attachments/assets/9a6da4f8-fdcc-4290-9a7b-7f85c507a5e4" />
+
+
 ### 🧪 My Coding Space
 - **Browser:** Chromium (Privacy focused)
 - **Environment:** Rooted Systems & BusyBox Power
