@@ -9,12 +9,12 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 <img width="330" height="153" alt="17782277269886810427317467650873" src="https://github.com/user-attachments/assets/e1b231d0-7174-49af-bc27-7a01c3c0555b" />
 
 ### ↗️ Links:
-- scratch main acc: https://scratch.mit.edu/users/scratchitukeren
-- scratch second acc: https://scratch.mit.edu/users/scratchitukeren2
-- scratch all account: https://scratch.mit.edu/studios/50843612/curators
-- cocrea: https://www.cocrea.world/@scratchitukerennn
-- internet archive: https://archive.org/details/@saucebbq
-- itch: https://scratchitukeren.itch.io
+- Scratch Main Account: https://scratch.mit.edu/users/scratchitukeren
+- Scratch Second Account: https://scratch.mit.edu/users/scratchitukeren2
+- Scratch All Account: https://scratch.mit.edu/studios/50843612/curators
+- Cocrea Account: https://www.cocrea.world/@scratchitukerennn
+- Internet Archive Account: https://archive.org/details/@saucebbq
+- Itch.io Account: https://scratchitukeren.itch.io
 
 <img width="387" height="130" alt="17782878596183052075086538190178" src="https://github.com/user-attachments/assets/87463d26-b8a6-4a8f-b2f0-b34feae5e1cb" />
 
@@ -27,7 +27,7 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - https://scratch.mit.edu/users/blueboi133
 - **TheDzaki322:**
 - https://scratch.mit.edu/users/thedzaki322  
-yes my friend scratchitukeren3 is steal my scratch name lol 
+**Yes my friend scratchitukeren3 is steal my scratch name lol**
 
 <img width="206" height="244" alt="17782277990888026455196263120603" src="https://github.com/user-attachments/assets/0133995d-29c8-4304-bc1c-50ff869c36c8" />
 
