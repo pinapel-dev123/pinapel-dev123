@@ -27,9 +27,9 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 **Yes my friend scratchitukeren3 is steal my scratch username lol**
 
 ### 🗃️ My Repo Lists
-- [🅾️ My OSes](github.com/stars/scratchitukeren-dev/lists/o2-my-oses)
-- [🔢 Random Projects](github.com/stars/scratchitukeren-dev/lists/1234-random-projects)
-- [❗ Experiments](github.com/stars/scratchitukeren-dev/lists/exclamation-experiments)
+- [🅾️ My OSes](https://github.com/stars/scratchitukeren-dev/lists/o2-my-oses)
+- [🔢 Random Projects](https://github.com/stars/scratchitukeren-dev/lists/1234-random-projects)
+- [❗ Experiments](https://github.com/stars/scratchitukeren-dev/lists/exclamation-experiments)
 
 <img width="206" height="244" alt="17782277990888026455196263120603" src="https://github.com/user-attachments/assets/0133995d-29c8-4304-bc1c-50ff869c36c8" />
 
