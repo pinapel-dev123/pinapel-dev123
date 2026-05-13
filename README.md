@@ -16,9 +16,6 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - [Itch.io](https://scratchitukeren.itch.io)
 - [XDA](https://www.xda-developers.com/profile/VY945499/)
 
-<img width="387" height="130" alt="17782878596183052075086538190178" src="https://github.com/user-attachments/assets/87463d26-b8a6-4a8f-b2f0-b34feae5e1cb" />
-
-
 ### 😃 My Friends
 - **Scratchitukeren3:**
 - [Scratch](https://scratch.mit.edu/users/scratchitukeren3)
@@ -26,10 +23,10 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - **BlueBoi133:**
 - [Scratch](https://scratch.mit.edu/users/blueboi133)
 - **TheDzaki322:**
-- [Scratch](https://scratch.mit.edu/users/thedzaki322)
+- [Scratch](https://scratch.mit.edu/users/thedzaki322)  
 **Yes my friend scratchitukeren3 is steal my scratch username lol**
 
-# 🗃️ My Repo Lists
+### 🗃️ My Repo Lists
 - [🅾️ My OSes](github.com/stars/scratchitukeren-dev/lists/o2-my-oses)
 - [🔢 Random Projects](github.com/stars/scratchitukeren-dev/lists/1234-random-projects)
 - [❗ Experiments](github.com/stars/scratchitukeren-dev/lists/exclamation-experiments)
