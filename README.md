@@ -13,6 +13,7 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
   <img src="vercel.app" alt="My Stats" />
   <img src="vercel.app" alt="Top Langs" />
 </p>
+
 ![Scratch](https://shields.io) ![Bash](https://shields.io) ![Linux](https://shields.io)
 
 ### ↗️ Links:
