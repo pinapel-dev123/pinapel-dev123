@@ -9,7 +9,7 @@
 I've been building and coding since I was 10. I'm a fan of open-source, terminal-based workflows, and diving into the "under-the-hood" of any system I use.  
 
 ---
-{context:
+```text
  _________________________  
 |  _____________________  |  
 | |                     | |  
@@ -19,7 +19,7 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 |_________________________|  
           |   |  
          [_____]  
-}
+```
 ---
 
 <img width="330" height="153" alt="17782277269886810427317467650873" src="https://github.com/user-attachments/assets/e1b231d0-7174-49af-bc27-7a01c3c0555b" />
