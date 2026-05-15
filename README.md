@@ -1,6 +1,6 @@
 <img width="60" height="60" alt="17782267336467478104220481716160" src="https://github.com/user-attachments/assets/e8288a07-3e22-41e8-b576-15ca67d974a0" />
 
-# 👨‍💻 Hi there, I'm scratchitukeren-dev!
+# 👨‍💻 Hi there, I'm pinapel-dev123!
 
 ### 🚀 Tech Enthusiast | Linux Shell Pro | Scratch Expert
 
@@ -49,9 +49,9 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 ---
 
 ### 🗃️ My Repo Lists
-- [🅾️ My OSes](https://github.com/stars/scratchitukeren-dev/lists/o2-my-oses)
-- [🔢 Random Projects](https://github.com/stars/scratchitukeren-dev/lists/1234-random-projects)
-- [❗ Experiments](https://github.com/stars/scratchitukeren-dev/lists/exclamation-experiments)
+- [🅾️ My OSes](https://github.com/stars/pinapel-dev123/lists/o2-my-oses)
+- [🔢 Random Projects](https://github.com/stars/pinapel-dev123/lists/1234-random-projects)
+- [❗ Experiments](https://github.com/stars/pinapel-dev123/lists/exclamation-experiments)
 
 ---
 
