@@ -1,7 +1,7 @@
 <img width="60" height="60" alt="17782267336467478104220481716160" src="https://github.com/user-attachments/assets/e8288a07-3e22-41e8-b576-15ca67d974a0" />
 
 # 👨‍💻 Hi there, I'm scratchitukeren-dev!
----
+
 ### 🚀 Tech Enthusiast | Linux Shell Pro | Scratch Expert
 
 ---
