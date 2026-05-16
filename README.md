@@ -4,8 +4,6 @@
 
 ### 🚀 Tech Enthusiast | Linux Shell Pro | Scratch Expert
 
----
-
 I've been building and coding since I was 10. I'm a fan of open-source, terminal-based workflows, and diving into the "under-the-hood" of any system I use.  
 
 ---
@@ -14,7 +12,7 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 |  _____________________  |  
 | |                     | |  
 | |  hello!      :)     | |  
-| |  im pinapel-dev     | |  
+| |  im pinapel-dev123  | |  
 | |_____________________| |  
 |_________________________|  
           |   |  
@@ -52,6 +50,8 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - [🅾️ My OSes](https://github.com/stars/pinapel-dev123/lists/o2-my-oses)
 - [🔢 Random Projects](https://github.com/stars/pinapel-dev123/lists/1234-random-projects)
 - [❗ Experiments](https://github.com/stars/pinapel-dev123/lists/exclamation-experiments)
+- [🔹 Small Projects](github.com/stars/pinapel-dev123/lists/small-blue-diamond-small-projects)
+- [💯 Esolangs](github.com/stars/pinapel-dev123/lists/100-esolangs)
 
 ---
 
