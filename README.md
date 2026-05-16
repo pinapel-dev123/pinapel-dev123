@@ -55,7 +55,8 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 
 ---
 
-<img width="206" height="244" alt="17782277990888026455196263120603" src="https://github.com/user-attachments/assets/0133995d-29c8-4304-bc1c-50ff869c36c8" />
+<img width="206" height="244" alt="17782277990888026455196263120603" src="https://github.com/user-attachments/assets/0133995d-29c8-4304-bc1c-50ff869c36c8" /> <img width="200" height="200" alt="17788925946761824446810126885622" src="https://github.com/user-attachments/assets/f65b6019-1a81-445b-9623-d800347e18ce" />
+
 
 ---
 
