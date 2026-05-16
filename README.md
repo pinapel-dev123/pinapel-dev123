@@ -77,7 +77,8 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 
 ---
 
-  <img width="300" height="168" alt="17782276080053953320754721880458" src="https://github.com/user-attachments/assets/20e4ac8f-8e57-4d0f-b49e-49f5a8795533" />
+  <img width="300" height="168" alt="17782276080053953320754721880458" src="https://github.com/user-attachments/assets/20e4ac8f-8e57-4d0f-b49e-49f5a8795533" /> <img width="220" height="142" alt="17788917687698582410298100951029" src="https://github.com/user-attachments/assets/595c6633-c6c1-4644-8264-d8d09e54056c" />
+
 
 ---
 ### btw if you see comment by scratchitukeren-dev in some of my script. nah its my old username!
