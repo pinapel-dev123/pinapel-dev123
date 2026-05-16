@@ -31,7 +31,7 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - [Internet Archive](https://archive.org/details/@saucebbq)
 - [Itch.io](https://scratchitukeren.itch.io)
 - [XDA](https://www.xda-developers.com/profile/VY945499/)
-- [Github Page](pinapel-dev123.github.io)
+- [Github Page](https://pinapel-dev123.github.io)
 
 ---
 
@@ -51,8 +51,8 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 - [🅾️ My OSes](https://github.com/stars/pinapel-dev123/lists/o2-my-oses)
 - [🔢 Random Projects](https://github.com/stars/pinapel-dev123/lists/1234-random-projects)
 - [❗ Experiments](https://github.com/stars/pinapel-dev123/lists/exclamation-experiments)
-- [🔹 Small Projects](github.com/stars/pinapel-dev123/lists/small-blue-diamond-small-projects)
-- [💯 Esolangs](github.com/stars/pinapel-dev123/lists/100-esolangs)
+- [🔹 Small Projects](https://github.com/stars/pinapel-dev123/lists/small-blue-diamond-small-projects)
+- [💯 Esolangs](https://github.com/stars/pinapel-dev123/lists/100-esolangs)
 
 ---
 
