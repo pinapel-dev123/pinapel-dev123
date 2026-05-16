@@ -80,6 +80,8 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
   <img width="300" height="168" alt="17782276080053953320754721880458" src="https://github.com/user-attachments/assets/20e4ac8f-8e57-4d0f-b49e-49f5a8795533" />
 
 ---
+### btw if you see comment by scratchitukeren-dev in some of my script. nah its my old username!
 
+---
 ## My Repos ⤵️
 
