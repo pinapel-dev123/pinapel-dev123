@@ -4,7 +4,7 @@
 
 ### 🚀 Tech Enthusiast | Linux Shell Pro | Scratch Expert
 
-I've been building and coding since I was 10. I'm a fan of open-source, terminal-based workflows, and diving into the "under-the-hood" of any system I use.  
+I've been joined github since I was 10. I'm a fan of open-source, terminal-based workflows, and diving into the "under-the-hood" of any system I use.  
 
 ---
 ```text
@@ -12,7 +12,7 @@ I've been building and coding since I was 10. I'm a fan of open-source, terminal
 |  _____________________  |       \||/
 | |                     | |       \|/
 | |  hello!      :)     | |      <><><>
-| |  im pinapel-dev123  | |     <><><><>  I 💌 PINEAPPLE!
+| |  im pinapel-dev123  | |     <><><><>  I ♥️ PINEAPPLE!
 | |_____________________| |     <><><><>
 |_________________________|      <><><>
           |   |  
