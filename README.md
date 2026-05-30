@@ -31,6 +31,7 @@ I've been joined github since I was 10. I'm a fan of open-source, terminal-based
 - [Internet Archive](https://archive.org/details/@saucebbq)
 - [Itch.io](https://scratchitukeren.itch.io)
 - [XDA](https://www.xda-developers.com/profile/VY945499/)
+- [Reddit](https://reddit.com/users/pinapel-dev123)
 - [Github Page](https://pinapel-dev123.github.io)
 - [My World](https://pinaples.carrd.co/)
 
